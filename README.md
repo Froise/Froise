@@ -8,6 +8,7 @@
 👨‍🎓 Graduated in System Analysis and Development from Faculdade Impacta Tecnologia
 
 <h3 align="left">✨About me:</h3>
+
 ```
 export =({
   'learning': ["Python one-line code","docker","tableau","pytest"],
