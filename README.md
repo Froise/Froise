@@ -22,7 +22,7 @@ export =({
       'csharp': ["asp.net core"],
       'vb': ".net",
       'python': ["django", "flask","pyspark","pandas"],
-      'misc': ["windows"]
+      'misc': ["windows","scrum"]
     },
     'databases': ["mssqlserver", "postgres", "sqlite", "mysql","hive"],
     'cloud': {
