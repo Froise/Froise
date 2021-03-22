@@ -22,12 +22,14 @@ export =({
       'csharp': ["asp.net core"],
       'vb': ".net",
       'python': ["django", "flask","pyspark","pandas"],
-      'misc': ["windows","scrum"]
+      'misc': ["windows","scrum","visualstudiocode]
     },
     'databases': ["mssqlserver", "postgres", "sqlite", "mysql","hive"],
+    'versionControl':["github","gitlab"],
     'cloud': {
       'aws':["s3","emr"]
     },
+
   },
   'socialMediaUsername': {
       'github': "froise",
