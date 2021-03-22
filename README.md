@@ -40,4 +40,4 @@ export =({
 
 ---
 
-⭐️ From [sudiptog81](https://github.com/sudiptog81)
+⭐️
