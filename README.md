@@ -11,7 +11,7 @@
 
 ```
 export =({
-  'learning': ["Python one-line code","docker","tableau","pytest"],
+  'learning': ["Python one-line code","docker","tableau",],
   'askMeAbout': ["python", "cats", "series","research"],
   'technologies': {
     'frontEnd': {
@@ -21,13 +21,13 @@ export =({
     'backEnd': {
       'csharp': ["asp.net core"],
       'vb': ".net",
-      'python': ["django", "flask","pyspark","pandas"],
+      'python': ["django", "flask","pyspark","pandas","pytest"],
       'misc': ["windows","scrum","visualstudiocode]
     },
     'databases': ["mssqlserver", "postgres", "sqlite", "mysql","hive"],
     'versionControl':["github","gitlab"],
     'cloud': {
-      'aws':["s3","emr"]
+      'aws':["s3","emr","stepfunction"]
     },
 
   },
@@ -35,7 +35,8 @@ export =({
       'github': "froise",
       'rackerrank': "froise",
       'linkedin':"franfm",
-      'discord':"Froise#1901"
+      'discord':"Froise#1901",
+      'khanacademy':"froise"
       }
 })
 ```
